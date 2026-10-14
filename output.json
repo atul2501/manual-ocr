@@ -1,0 +1,44 @@
+{
+    "invoice_header": {
+        "invoice_number": "0570",
+        "invoice_date": "2026-03-13",
+        "due_date": null,
+        "Payment_terms": null,
+        "Company_code": "12816311",
+        "vendor_address": "134 London Road, Tunbridge Wells, Kent TN4 0PL",
+        "vendor_tax_id": "357480965",
+        "vendor_bank_name": "Metro Bank",
+        "vendor_account_no": "39244357",
+        "vendor_sort_code": "23-05-80",
+        "vendor_iban": null,
+        "customer_name": "LT Foods U.K",
+        "customer_address": "Unit 5 Midas River Way Harlow CM20 2GJ",
+        "po_number": null,
+        "reference_number": "2500x1250x6 Aluminum Tread Plate",
+        "currency": "£",
+        "subtotal": 39781.38,
+        "tax_percentage": 20,
+        "total_amount": 47737.66
+    },
+    "line_item": [
+        {
+            "line_no": null,
+            "description": "Supply and Deliver 32no Aluminum tread plate 2500mm x 1200mm x 6mm",
+            "quantity": 32,
+            "unit_price": 199.0,
+            "amount": 6368.0,
+            "tax_percent": null,
+            "reference_code": null
+        },
+        {
+            "line_no": null,
+            "description": "Supply and Deliver 143no Aluminum tread plate 2500mm x 1200mm x 6mm",
+            "quantity": 143,
+            "unit_price": 233.66,
+            "amount": 33413.38,
+            "tax_percent": null,
+            "reference_code": null
+        }
+    ],
+    "additional_fields": []
+}
